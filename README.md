@@ -8,4 +8,4 @@ Template de site vitrine.
 
 ## License
 
-Ce projet est sous licence ``Apache License`` - voir le fichier [LICENSE.md](LICENSE.md) pour plus d'informations
+Ce projet est sous licence ``Apache License`` - voir le fichier [LICENSE.md](LICENSE) pour plus d'informations
