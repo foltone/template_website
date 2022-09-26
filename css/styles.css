@@ -55,5 +55,17 @@ body header h1 {
   font-weight: bold;
   padding: 5px;
 }
+body footer {
+  position: absolute;
+  width: 100%;
+  padding: 40px;
+  bottom: 0;
+  background-color: rgb(130, 147, 255);
+  border-top: solid 3px rgb(0, 0, 0);
+}
+body footer p {
+  text-align: center;
+  font-size: 22px;
+}
 
 /*# sourceMappingURL=styles.css.map */

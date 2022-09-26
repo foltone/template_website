@@ -12,11 +12,15 @@ body {
         }
     }
     footer {
-        position: relative;
-        bottom: O;
-        background-color: rgba(130, 200, 255, 0.5);
-        text-align: center;
-        font-size: 22px;
-        font-weight: bold;
+        position: absolute;
+        width: 100%;
+        padding: 40px;
+        bottom: 0;
+        background-color: rgb(130, 147, 255);
+        border-top: solid 3px rgb(0, 0, 0);
+        p {
+            text-align: center;
+            font-size: 22px;
+        }
     }
 }
